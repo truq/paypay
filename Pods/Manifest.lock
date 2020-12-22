@@ -1,0 +1,42 @@
+PODS:
+  - Alamofire (5.2.2)
+  - DropDown (2.3.13)
+  - IQKeyboardManagerSwift (6.5.6)
+  - MBProgressHUD (1.0.0)
+  - Realm (5.5.0):
+    - Realm/Headers (= 5.5.0)
+  - Realm/Headers (5.5.0)
+  - RealmSwift (5.5.0):
+    - Realm (= 5.5.0)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - DropDown
+  - IQKeyboardManagerSwift
+  - MBProgressHUD (~> 1.0.0)
+  - RealmSwift
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - DropDown
+    - IQKeyboardManagerSwift
+    - MBProgressHUD
+    - Realm
+    - RealmSwift
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 814429acc853c6c54ff123fc3d2ef66803823ce0
+  DropDown: 8a2116376c1981888557f72ec2ffc9a5e0e456ec
+  IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  Realm: fb399d76f44042e5cdfc630f33828fdb4d077345
+  RealmSwift: 3b7e62356207ef16d34de4e55d475163bd2062bb
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: 2e22e77097384b0c656b8846b22574d9d5ed8cd6
+
+COCOAPODS: 1.9.3
